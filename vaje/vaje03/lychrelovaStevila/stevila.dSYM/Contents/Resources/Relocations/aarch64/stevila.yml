@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/david/Desktop/koda david/prog2/vaje/vaje03/lychrelovaStevila/stevila'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _palindrom, symObjAddr: 0x0, symBinAddr: 0x100003DF4, symSize: 0x6C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _palindrom, symObjAddr: 0x0, symBinAddr: 0x100003DF4, symSize: 0x6C }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _jeLychrelovo, symObjAddr: 0x6C, symBinAddr: 0x100003E60, symSize: 0xCC }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x138, symBinAddr: 0x100003F2C, symSize: 0x5C }
+...
